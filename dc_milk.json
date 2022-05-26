@@ -1,0 +1,23 @@
+{
+ "R% / litro": [
+  2.4
+ ],
+ "lts de leite/dia": [
+  2500.0
+ ],
+ "total de vacas lacatacao": [
+  80.0
+ ],
+ "media de lts leite/vaca": [
+  31.25
+ ],
+ "receita em R$/dia": [
+  6000.0
+ ],
+ "producao lts leite/mes": [
+  75000.0
+ ],
+ "receita em R$/mes": [
+  75000.0
+ ]
+}
